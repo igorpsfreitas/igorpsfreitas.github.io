@@ -41,8 +41,9 @@ body{
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    width: 50%;
+    width: 350px;
     min-height: 34rem;
+    
     
 }
 
@@ -128,6 +129,7 @@ body{
 .app-download:nth-child(2){
     background-image: url("../img/googleplay-button.png");
 }
+
 
 @media (max-width: 1024px){
     .instagram-box{
