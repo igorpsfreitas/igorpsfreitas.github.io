@@ -1,3 +1,3 @@
-# Página inicial Instagram com login :beer:
+# Página inicial teste Igor Freitas:beer:
 
-**2020/12/28** - Repositório destinado a atividade “Recriando a pagina inicial do Instagram” com o objetivo de exercitar o conceito sobre CSS utilizando Flexbox. 
+**2021/01/18** - Testando função "pages" do Github. 
